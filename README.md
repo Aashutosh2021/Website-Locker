@@ -12,9 +12,9 @@ This project helped me deepen my understanding of Chrome extensions and web secu
 This extension blocks a website (e.g., Instagram) and allows access only after entering the correct password.
 
 🛠️ Setup Instructions (Step-by-Step)
-1. Clone the Repository
-git clone https://github.com/your-username/your-extension-name.git
-cd your-extension-name
+1. Clone or Download the Repository 
+  git clone https://github.com/Aashutosh2021/Website-Locker.git
+  cd your-extension-name
 
 2. Set Your Desired Website URL
   Update the domain you want to block in the matching condition:
